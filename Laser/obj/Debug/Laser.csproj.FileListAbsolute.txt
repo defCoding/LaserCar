@@ -1,0 +1,10 @@
+D:\Users\kcao1\workspace\repos\Laser\Laser\obj\Debug\Laser.csprojAssemblyReference.cache
+D:\Users\kcao1\workspace\repos\Laser\Laser\obj\Debug\Laser.frmLaser.resources
+D:\Users\kcao1\workspace\repos\Laser\Laser\obj\Debug\Laser.Properties.Resources.resources
+D:\Users\kcao1\workspace\repos\Laser\Laser\obj\Debug\Laser.csproj.GenerateResource.cache
+D:\Users\kcao1\workspace\repos\Laser\Laser\obj\Debug\Laser.csproj.CoreCompileInputs.cache
+D:\Users\kcao1\workspace\repos\Laser\Laser\bin\Debug\Laser.exe.config
+D:\Users\kcao1\workspace\repos\Laser\Laser\bin\Debug\Laser.exe
+D:\Users\kcao1\workspace\repos\Laser\Laser\bin\Debug\Laser.pdb
+D:\Users\kcao1\workspace\repos\Laser\Laser\obj\Debug\Laser.exe
+D:\Users\kcao1\workspace\repos\Laser\Laser\obj\Debug\Laser.pdb
